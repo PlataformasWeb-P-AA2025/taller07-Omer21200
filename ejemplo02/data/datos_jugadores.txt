@@ -67,7 +67,7 @@ Universidad Católica;Defensor;5;Fausto Grillo
 Universidad Católica;Defensor;6;Joshué Quiñónez
 Universidad Católica;Defensor;7;Recksón Rentería
 Universidad Católica;Defensor;8;Johan Mina
-Universidad Católica;Defensor;Layan Loer
+Universidad Católica;Defensor;99;Layan Loer
 Universidad Católica;Mediocampista;10;Luis Castillo
 Universidad Católica;Mediocampista;11;Gregori Anangonó
 Universidad Católica;Mediocampista;15;Ignacio Mosquera
